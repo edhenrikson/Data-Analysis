@@ -1,4 +1,4 @@
-library(tidyverse)   #helps wrangle data
+library(tidyverse)  #helps wrangle data
 library(lubridate)  #helps wrangle date attributes
 library(ggplot2)  #helps visualize data
 getwd() #displays your working directory
